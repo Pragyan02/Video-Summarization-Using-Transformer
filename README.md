@@ -14,7 +14,7 @@ This project aims to provide a solution for video summarization using Natural La
 1. Clone the project repository:
 
 ```
-git clone https://github.com/your-username/video-summarization-nlp.git
+git clone https://github.com/Pragyan02/Video-Summarization-Using-Transformer.git
 ```
 
 2. Install the required libraries using pip:
